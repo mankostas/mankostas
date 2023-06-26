@@ -1,4 +1,8 @@
 # 💫 About Me:
+
+Frontend Engineer and Team Leader with extensive experience in website design and development in the digital advertising industry. Highly experienced with HTML5, CSS3, JS, PHP, and MySQL.
+Having worked with teams and clients globally, gave me the opportunity to grow my skills in Frontend Development, as well as my managerial, problem-solving and interpersonal skills. I am currently seeking for a Frontend Development role in an environment that supports self-growth in order to gain further expertise in leadership. 
+
 🔭 I’m currently working on 47 Purity Street<br>🌱 I’m currently learning React, Node.js<br>
 
 
